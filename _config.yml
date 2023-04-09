@@ -1,0 +1,6 @@
+theme: minima
+title: q1blaqi's LLM blog
+author: q1blaqi
+email: molitsta@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  This is a blog about my LLM studies at Stevens Institute of Technology.
