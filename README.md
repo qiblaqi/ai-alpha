@@ -18,7 +18,7 @@ _my personal LLM research from fastChat._
   Do not use quotes on the <details> tag attributes.
 -->
 
-<details id=0>
+<!-- <details id=0>
 <summary><h2>Welcome</h2></summary>
 
 With GitHub Pages, you can host project blogs, documentation, resumes, portfolios, or any other static content you'd like. Your GitHub repository can easily become its own website. In this course, we'll show you how to set up your own site or blog using GitHub Pages.
@@ -49,7 +49,7 @@ With GitHub Pages, you can host project blogs, documentation, resumes, portfolio
   Encourage users to open new tabs for steps!
 -->
 
-<details id=1>
+<!-- <details id=1>
 <summary><h2>Step 1: Enable GitHub Pages</h2></summary>
 
 _Welcome to GitHub Pages and Jekyll :tada:!_
@@ -67,7 +67,7 @@ The first step is to enable GitHub Pages on this [repository](https://docs.githu
    > Turning on GitHub Pages creates a deployment of your repository. GitHub Actions may take up to a minute to respond while waiting for the deployment. Future steps will be about 20 seconds; this step is slower.
    > **Note**: In the **Pages** of **Settings**, the **Visit site** button will appear at the top. Click the button to see your GitHub Pages site.
 
-</details>
+</details> -->
 
 <!--
   <<< Author notes: Step 2 >>>
@@ -76,7 +76,7 @@ The first step is to enable GitHub Pages on this [repository](https://docs.githu
   Historic note: previous version checked for empty pull request, changed to the correct theme `minima`.
 -->
 
-<details id=2>
+<!-- <details id=2>
 <summary><h2>Step 2: Configure your site</h2></summary>
 
 _You turned on GitHub Pages! :tada:_
@@ -108,7 +108,7 @@ We need to use a blog-ready theme. For this activity, we will use a theme named 
   Define terms and link to docs.github.com.
   Historic note: previous version checked the homepage content was not empty.
 -->
-
+<!-- 
 <details id=3 open>
 <summary><h2>Step 3: Customize your homepage</h2></summary>
 
@@ -125,7 +125,7 @@ You can customize your homepage by adding content to either an `index.md` file o
 1. Commit your changes to the `my-pages` branch.
 1. Wait about 20 seconds then refresh this page for the next step.
 
-</details>
+</details> -->
 
 <!--
   <<< Author notes: Step 4 >>>
@@ -133,7 +133,7 @@ You can customize your homepage by adding content to either an `index.md` file o
   Define terms and link to docs.github.com.
   Historic note: previous version checked the file path. Previous version checked the front matter formatting.
 -->
-
+<!-- 
 <details id=4>
 <summary><h2>Step 4: Create a blog post</h2></summary>
 
@@ -148,8 +148,8 @@ GitHub Pages uses Jekyll. In Jekyll, we can create a blog by using specially nam
 title: "Welcome to my blog"
 date: 2019-01-20
 ---
-```
-
+``` -->
+<!-- 
 For more information about configuring front matter, see the [Jekyll frontmatter documentation](https://jekyllrb.com/docs/frontmatter/).
 
 ### :keyboard: Activity: Create a blog post
@@ -173,14 +173,14 @@ For more information about configuring front matter, see the [Jekyll frontmatter
 1. Commit your changes to your branch.
 1. Wait about 20 seconds then refresh this page for the next step.
 
-</details>
+</details> --> -->
 
 <!--
   <<< Author notes: Step 5 >>>
   Start this step by acknowledging the previous step.
   Define terms and link to docs.github.com.
 -->
-
+<!-- 
 <details id=5>
 <summary><h2>Step 5: Merge your pull request</h2></summary>
 
@@ -194,13 +194,13 @@ You can now [merge](https://docs.github.com/en/get-started/quickstart/github-glo
 1. (optional) Delete the branch `my-pages`.
 1. Wait about 20 seconds then refresh this page for the next step.
 
-</details>
+</details> -->
 
 <!--
   <<< Author notes: Finish >>>
   Review what we learned, ask for feedback, provide next steps.
 -->
-
+<!-- 
 <details id=X>
 <summary><h2>Finish</h2></summary>
 
@@ -215,9 +215,9 @@ Here's a recap of all the tasks you've accomplished in your repository:
 - You enabled GitHub Pages.
 - You selected a theme using the config file.
 - You learned about proper directory format and file naming conventions in Jekyll.
-- You created your first a blog post with Jekyll!
+- You created your first a blog post with Jekyll! -->
 
-### What's next?
+<!-- ### What's next?
 
 - Keep working on your GitHub Pages site... we love seeing what you come up with!
 - We'd love to hear what you thought of this course [in our discussion board](https://github.com/skills/.github/discussions).
@@ -225,7 +225,7 @@ Here's a recap of all the tasks you've accomplished in your repository:
 - [Read the GitHub Getting Started docs](https://docs.github.com/en/get-started).
 - To find projects to contribute to, check out [GitHub Explore](https://github.com/explore).
 
-</details>
+</details> -->
 
 <!--
   <<< Author notes: Footer >>>
