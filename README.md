@@ -173,7 +173,7 @@ For more information about configuring front matter, see the [Jekyll frontmatter
 1. Commit your changes to your branch.
 1. Wait about 20 seconds then refresh this page for the next step.
 
-</details> --> -->
+</details> -->
 
 <!--
   <<< Author notes: Step 5 >>>
