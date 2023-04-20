@@ -8,4 +8,4 @@ this is a test blog content.
 <!--this url does not work properly -->
 ![image](/images/2023-04-15-something/gpu.jpg) 
 <!-- this url works properly -->
-![image](https://raw.githubusercontent.com/username/username.github.io/master/images/2023-04-15-something/gpu.jpg)
+![image](https://raw.githubusercontent.com/qiblaqi/qiblaqi.github.io/ai-alpha/main/images/2023-04-15-something/gpu.jpg)
