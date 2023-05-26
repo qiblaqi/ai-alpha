@@ -8,7 +8,7 @@
 # q1blaqi's LLM Blog
 
 _my personal LLM research from fastChat._
-link: qiblaqi.github.io/ai-alpha/
+link: https://qiblaqi.github.io/ai-alpha/
 
 <!--
   <<< Author notes: Start of the course >>>
