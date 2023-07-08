@@ -5,7 +5,7 @@
   Add your open source license, GitHub uses Creative Commons Attribution 4.0 International.
 -->
 
-# q1blaqi's LLM Blog
+# q1blaqi's Blog
 
 _my personal LLM research from fastChat._
 
