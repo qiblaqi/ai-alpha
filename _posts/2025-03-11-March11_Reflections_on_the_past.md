@@ -1,6 +1,6 @@
 ---
 title: Notes for March 11th, 2025
-date: March 11th, 2025
+date: 2025-03-11
 ---
 
 ## Open-manus: Workflow Implementation for Multi-Model AI Agent
