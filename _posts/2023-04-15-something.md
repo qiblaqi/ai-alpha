@@ -9,4 +9,4 @@ this is a test blog content.
 <!-- ![image](/images/2023-04-15-something/gpu.jpg)  -->
 <!-- this url works properly -->
 
-![ad102gpu](https://raw.githubusercontent.com/qiblaqi/qiblaqi.github.io/ai-alpha/main/images/2023-04-15/ad102gpu.png "ad102 gpu")
+![ad102gpu](https://raw.githubusercontent.com/qiblaqi/ai-alpha/main/images/2023-04-15/ad102gpu.png "ad102 gpu")
