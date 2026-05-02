@@ -1,3 +1,8 @@
+---
+title: "Random thoughts"
+date: 2023-05-26
+---
+
 ## random thoughts May 26th
 
 watching non-syllable content -> visual view; (watching a picture, a video, a movie, a scene, a frame)
