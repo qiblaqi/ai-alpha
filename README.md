@@ -7,7 +7,7 @@
 
 # q1blaqi's Blog
 
-_my personal LLM research from fastChat._
+_My personal LLM research from FastChat._
 
 link: https://qiblaqi.github.io/ai-alpha/
 

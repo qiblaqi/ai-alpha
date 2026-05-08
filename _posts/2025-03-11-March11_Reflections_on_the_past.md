@@ -5,7 +5,7 @@ date: 2025-03-11
 
 ## Open-manus: Workflow Implementation for Multi-Model AI Agent
 
-Today, I focus on creating the workflow implementation to use a multi-model AI agent. This involves coordinating various AI models to work together effectively, each leveraging their strengths to handle different aspects of a task. The goal is to enhance the efficiency and effectiveness of AI solutions by integrating multiple models seamlessly.
+Today, I focused on creating a workflow implementation for using a multi-model AI agent. This involves coordinating various AI models to work together effectively, each leveraging its strengths to handle different aspects of a task. The goal is to enhance the efficiency and effectiveness of AI solutions by integrating multiple models seamlessly.
 
 ## Reflection on LLM Study (April 23rd, 2023 - July 8th, 2023)
 
